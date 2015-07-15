@@ -1,0 +1,1027 @@
+0J,高级喷气航空,I,Premium Jet AG,CH
+HL,,F,Hotels/Motels,US
+2N,莱克斯航空,A,NextJet AB,SE
+0B,南卡罗来蓝天航空公司,I,S.C. Blue Air Airline Management Solutions S.R.L.,RO
+0Q,魁北克航空,B,Hydro - Quebec,CA
+AW,非洲世界航空有限公司,A,Africa World Airlines,GH
+5M,蒙特塞拉特航空有限公司,A,Montserrat Airways Ltd.,MS
+8C,路凼轮渡有限公司,K,Cotai Ferry Company Limited,MO
+8N,区域航空服务,A,Regional Air Services,TZ
+N8,国家货运航空集团,I,National Air Cargo Group, Inc. dba National Airlines,US
+P7,小行星航空公司,B,Small Planet Airline Sp. Z.o.o,PL
+XD,美国航空运输协会,F,Air Transport Association of America dba Airlines for America,US
+6J,亚洲天网航空,I,Solaseed,JP
+9I,联盟航空,,Alliance Air,IN
+9X,南方快运航空,A,Southern Airways Express,US
+O8,暹罗航空运输有限公司,I,SIAM AIR TRANSPORT COMPANY LIMITED,TH
+IO,伊热航空公司,I,IrAero,RU
+UB,缅甸航空公司,I,MYANMA AIRWAYS,MM
+0V,越南航空,I,VIETNAM AIR SERVICE COMPANY,VN
+1A,艾玛迪斯IT集团,H,Amadeus IT Group SA,ES
+K9,卡丽塔查特斯航空,J,Kalitta Charters, L.L.C.,KH
+I5,印度亚洲航空,A,AirAsia India,IN
+1B,Abacus国际私人有限公司,H,Abacus International Pte. Ltd.,SG
+OI,内陆航空,,Hinterland Aviation,AU
+UQ,乌鲁木齐航空有限责任公司,I,URUMQI AIRLINES,CN
+Z2,亚航飞龙航空公司,I,Zest Airways Inc.,PH
+WV,贵宾航空,A,AERO VIP,PT
+1C,惠普（瑞士）有限公司,H,Hewlett-Packard (Schweiz) GmbH,CH
+QW,青岛航空公司,I,Qingdao Airlines Co., Ltd,CN
+Z7,津巴布韦非洲航空,I,flyafrica Zimbabwe,ZW
+FU,福州航空有限责任公司,I,Fuzhou Airlines Co., Ltd,CN
+XT,印尼亚航,I,Indonesia AirAsia Extra,ID
+1D,Radixx解决方案国际公司,H,Radixx Solutions International, Inc.,US
+1E,民航信息网络股份有限公司,H,Travelsky Technology Limited,CN
+1F,INFINI旅游信息公司,H,INFINI Travel Information, Inc.,JP
+8R,SOL S.A.公司,I,SOL S.A. Lineas Aereas,AR
+DR,瑞丽航空有限公司,I,Ruili Airlines Co. Ltd.,CN
+B0,梦想航空,A,La Compagnie,FR
+1G,Travelport全球分销系统,H,Travelport Global Distribution System B.V.,GB
+6U,优尼克航空,I,Unique Air,AE
+IT,台湾虎航,I,TIGERAIR TAIWAN CO. LTD,TW
+2D,动力航空,B,Dynamic Airways, LLC,US
+1I,内华达山脉航空公司,B,Sierra Nevada Airways,US
+1J,AXESS国际网络公司,H,Axess International Network Inc.,JP
+8S,信德中旅船务管理有限公司,I,Shun Tak-China Travel Ship Mgmt. Ltd.,HK
+VC,包机运输航空,I,Charter Air Transport,US
+JI,迈拉杰航空,A,MERAJ AIR,
+1K,,H,Sutra Inc.,US
+CF,中国邮政航空,C,China Postal Airlines,CN
+1L,,H,Navitaire Open Skies,US
+1M,JSC交通自动化信息系统,H,JSC Transport Automated Information Systems - TAIS,RU
+1N,,H,Navitaire,US
+KW,哈尔科夫航空,B,Kharkiv Airlines,UA
+1P,,H,Worldspan,US
+1R,博德信息系统私人有限公司,H,Bird Information Systems Private Limited,IN
+1S,,H,Sabre Inc.,US
+1T,印尼PT航空系统公司,H,PT Aerosystems Indonesia,ID
+1U,ITA软件公司,H,ITA Software Inc.,US
+1V,伽利略国际,H,Galileo International,US
+1X,布兰森航空,H,Fly Branson Travel dba Branson Air Express,US
+1Y,电子数据系统公司,H,Electronic Data Systems Corporation,US
+1Z,,H,Sabre Pacific,AU
+EL,Ellinair航空,I,Ellinair S.A.,GR
+2A,德国铁路股份公司,K,Deutsche Bahn AG,DE
+2C,法国国营铁路公司,K,SNCF,FR
+2E,斯莫凯湾航空公司,A,Smokey Bay Air, Inc.,US
+2F,阿夫林特国际航空公司,I,Afrinat International Airlines,GH
+FR,瑞安航空公司,I,Ryanair Ltd.,IE
+2H,大力士国际公司,K,Thalys International,BE
+2I,秘鲁之星航空公司,I,Star Up S.A. dba Star Peru,PE
+2J,布基纳法索航空公司,A,Air Burkina,BF
+2K,加拉帕戈斯航空公司,I,Aerolineas Galapagos S.A. Aerogal,EC
+2L,哈尔维提克航空公司,A,Helvetic Airways AG,CH
+2M,摩尔多瓦航空公司,I,Moldavian Airlines,MD
+2O,救赎公司,I,Redemption Inc.,US
+2P,菲律宾航空公司,I,Air Philippines Corporation dba PAL Express and Airphil Express,PH
+2Q,航空货运有限责任公司,C,Air Cargo Carriers, LLC.,US
+2R,加拿大维亚铁路公司,K,VIA Rail Canada Inc.,CA
+2S,均田航空公司,I,Kinda Airlines,SY
+H1,Hahn航空系统,H,Hahn Air Systems,DE
+2U,太阳国际航空公司,A,Sun d'Or International Airlines,IL
+2V,美国国家铁路乘客公司,K,Amtrak,US
+2W,维尔康姆航空公司,A,Welcome Air Luftfahrt Gmbh & Co KG,AT
+2Z,帕萨雷度空运,I,Passaredo Transportes Aereos S.A.,BR
+3A,珠江客运有限公司,K,Chu Kong Passenger Transport Co. Ltd.,HK
+3B,中央连接​​航空,I,Job Air - Central Connect Airlines s.r.o,CZ
+3C,卡里马,B,Calima Aviacion S.L,ES
+3D,杜卡斯航空公司,G,DoKaSch GmbH,DE
+3E,多航公司,A,Multi-Aero, Inc. dba Air Choice One,US
+3F,太平洋航空公司,I,Pacific Airways Inc.,US
+I9,意大利航空,I,Air Italy S.p.A.,IT
+3G,冈比亚博德航空公司,I,Gambia Bird Airlines Limited,GM
+3H,伊努伊特航空公司,I,Air Inuit Ltd/Ltee,CA
+3I,智利奥斯拉尔航空公司,I,Aerolineas Austral Chile S.A.,GH
+5C,自然航空,A,Nature Air S.A.,CR
+3K,捷星亚洲航空公司,I,Jetstar Asia Airways Pte Ltd,SG
+3L,英特斯开航空公司,I,InterSky Luftfahrt GmbH,AT
+3M,银色国际航空公司,I,Silver Airways Corp,US
+3N,乌尔加航空公司,I,Air Urga,UA
+3O,阿拉伯航空公司,I,Air Arabia Maroc,MA
+3P,皇冠阿鲁巴航空,I,Tiara Air N.V. dba Tiara Air Aruba,AW
+QB,格什姆航空公司,I,Qeshm Air,IR
+3S,安的列斯群岛快递航空公司,A,CAIRE dba Air Antilles Express,GY
+3T,图兰航空公司,I,Tarco Air,SD
+3U,四川航空有限公司,I,Sichuan Airlines Co. Ltd.,CN
+3V,TNT航空公司,I,TNT Airways S.A.,BE
+3W,马拉维航空,I,Malawian Airlines,MW
+3X,第一运输航空公司,C,Premier Trans Aire Inc.,US
+3Y,Baseops国际公司,D,Baseops International, Inc.,US
+3Z,Polska旅服,A,Travel Service Polska Sp. z.o.o.,PL
+4B,精品空运公司,A,Boutique Air, Inc.,US
+4C,爱雷斯航空公司,A,Aires S.A.,CO
+4D,西奈航空公司,I,Air Sinai,EG
+4E,塔纳纳航空服务公司,A,Tanana Air Service,US
+4F,城市航空公司,K,Air City,DE
+4G,嘉兹普洛马维亚航空公司,I,Gazpromavia Aviation Company Ltd.,RU
+4H,孟加拉联合航空,I,United Airways Bangladesh Ltd,BD
+4I,伊则航空,I,IHY Izmir Havayollari A.S.,TR
+4K,肯博雷克航空公司,A,Kenn Borek Air Ltd.,CA
+4L,帕劳国家航空公司,I,Palau National Airlines,PW
+4M,Lan阿根廷航空公司,I,Lan Argentina,AR
+4N,北方航空公司,I,Air North Charter and Training Ltd.,CA
+4O,ABC航空公司,I,ABC Aerolineas S.A. de C.V.,MX
+4P,旅游航空股份有限公司,I,Travel Air Limited,GN
+4S,正达货运航空公司,D,Solar Cargo, C.A.,VE
+4T,富豪航空公司,A,Belair Airlines Ltd.,CH
+SM,卡里奥航空公司,J,Air Cairo,EG
+4U,德国之翼航空公司,A,Germanwings GmbH,DE
+4V,刚果航空公司,I,Lignes Aeriennes Congolaises,CG
+4W,华伯娄航空实业公司,A,Warbelow's Air Ventures, Inc.,US
+4X,水星航空货运公司,C,Mercury Air Cargo, Inc.,US
+4Y,阿拉斯加于特航空阿拉斯加飞行航空公司,I,Flight Alaska Inc. dba Yute Air Alaska,US
+4Z,南非航空SA航空公司,I,SA Airlink dba South African Airlink,ZA
+5A,阿尔卑斯山航空公司,D,Alpine Aviation Inc.,US
+4Q,萨菲航空公司,I,Safi Airways Ltd.,AF
+5B,百善航空有限公司,I,Bassaka Air Limited,KH
+5D,墨西哥航空公司,I,AEROMEXICO CONNECT,MX
+5E,暹罗尕有限公司,A,Siam Ga Co. Ltd.,TH
+5F,泛非航空有限公司,I,Pan African Airways Ltd.,KE
+5G,540加纳有限公司,I,540 Ghana Ltd.,GH
+5H,540航空公司,I,Five Fourty Aviation Limited,KE
+5I,阿兰斯卡航空,K,Alsa Grupo SLU,ES
+5K,嗨飞空运公司,I,Hi Fly Transportes Aereos, S.A.,PT
+5J,宿务太平洋航空,I,CEBU Pacific Air,PH
+5N,俄罗斯国际航空公司诺德分公司,I,Joint-Stock Company Nordavia - regional airlines,RU
+5O,欧洲航空邮递公司,I,Europe Airpost,FR
+5P,AEROLINEA航空公司,A,AEROLINEA PRINCIPAL,CL
+5Q,BQB航空,I,Los Cipreses S. A. dba BQB Lineas Aereas,UY
+5R,鲁塔斯航空,I,Rutas Aereas, C.A. dba RUTACA,VE
+5S,全球航空服务集团,C,Global Aviation Services Group,LY
+5T,加拿大北方航空诺特拉航空公司,I,Canadian North Inc.,CA
+5U,Guatemaltecos航空公司,I,Transportes Aereos Guatemaltecos S.A.,GT
+5V,阿拉斯加航空货运,I,Tatonduk Outfitters Limited dba Everts Air Alaska dba Everts Air Cargo,US
+5W,西部铁路管理有限责任公司,K,WESTbahn Management GmbH,AT
+5X,联合包裹运送服务公司,C,UPS,US
+5Y,阿特拉斯航空公司,C,Atlas Air, Inc.,US
+5Z,Cemair航空公司,A,Cemair (Pty) Ltd. t/a Cemair,ZA
+6A,亚美尼亚航空公司,A,Armenia Airways Aircompany CJSC,AM
+6B,途易航空,I,TUIfly Nordic AB,SE
+6C,帝都航空公司,I,Air Timor S.A.,TL
+6D,zlozka Slovensko航空服务公司,I,Travel Service,a.s. organizacna zlozka Slovensko,SK
+6E,靛蓝航空,I,Interglobe Aviation Ltd. dba Indigo,IN
+6G,太阳快线航空公司,A,Sun Air Express, LLC,US
+6H,以斯雷航空与旅游公司,I,Israir Airlines and Tourism Ltd.,IL
+6I,艾维斯特航空公司,A,Air Alsie A/S,DK
+6L,阿克拉克航空公司,I,Aklak Inc.,CA
+6M,扎卡里亚斯莫雷诺,G,Zacarias Moreno,ES
+6N,尼日尔航空公司,A,Niger Airlines S.A.,NE
+6O,沃拜斯特航空,B,Orbest S.A.,PT
+6T,曼德勒航空公司,A,AIR MANDALAY LTD,MM
+6V,Avanza 航空公司,K,Auto Res S.L.U dba Avanza Group,ES
+6W,萨拉托夫联合控股航空公司,A,Saratov Airlines Joint Stock Company,RU
+6Y,Smartlynx航空有限公司,A,Smartlynx Airlines Ltd.,LV
+7C,济州航空有限公司,A,Jeju Air Co. Ltd.,KR
+7E,叙航有限公司,A,Sylt Air GmbH,DE
+7F,布拉德利航空公司,I,Bradley Air Services Limited t/a First Air,CA
+7G,星摩天观景轮公司,A,Star Flyer Inc.,JP
+7H,时代航空公司,I,Era Aviation, Inc.,US
+7I,塞尔国际航空公司,I,Insel Air International B.V.,NL
+7K,科加雷姆航空公司,A,Kogalymavia Airlines Ltd,RU
+7L,丝绸之路西部航空有限责任公司,D,Silk Way West Airlines Limited,AZ
+7M,米斯特拉尔航空,C,Mistral Air S.r.l.,MX
+7N,国家航空,I,NATIONAL AIRWAYS,ET
+7O,旅游服务有限公司,A,Travel Service Legiforgalmi es Szolgaltato Kft./ Ltd,HU
+7P,巴拿马帕萨航空,A,Air Panama dba Parsa, S.A.,PA
+7S,北极航空公司,C,Arctic Transportation Services, Inc. dbaRyan Air,US
+7T,AM穿越航空厄瓜多尔快运航空公司,C,Aero Express del Ecuador - Trans AM,EC
+7U,商业航空服务有限责任公司,I,Commercial Aviation Services, LLC,US
+7V,联邦航空,A,Federal Airlines (Pty) Ltd,ZA
+7W,风中玫瑰航空公司,A,WIND ROSE AVIATION,UA
+7Y,曼恩航空,I,Mann Yadanarpon Airlines Co. Ltd.,MM
+7Z,Ameristar航空货运公司,J,Ameristar Air Cargo, Inc.,US
+8A,巴拿马航空公司,C,Panama Airways,PA
+8B,商务航空有限公司,I,Business Air Co,Ltd,TH
+8M,缅甸国际航空公司,I,Myanmar Airways International Co., Ltd.,MM
+8D,民服航空,A,Servant Air, Inc.,US
+8E,白令航空公司,A,Bering Air Inc.,US
+8F,STP航空公司,A,STP Airways,ST
+8G,英斯通航空,G,Instone Air Services Ltd. t/a InstoneAir,GB
+8H,波黑航空有限公司,I,BH Air Ltd.,BG
+8I,阿鲁巴航空,I,InselAir Aruba N.V. dba InselAir Aruba,AW
+8J,生态喷气航空,I,Linea Aerea Eco Jet S.A.,BO
+8K,千里航空,C,K-Mile Air Co. Ltd,TH
+8L,祥鹏航空公司,I,Lucky Air Co. Ltd.,CN
+8P,太平洋之岸航空公司,A,Pacific Coastal Airlines Limited,CA
+8Q,Onur航空公司,I,Onur Air Tasimacilik A.S.,TR
+8T,廷蒂航空公司,I,Air Tindi Ltd.,CA
+8U,阿弗里奇亚航空公司,I,Afriqiyah Airways,LY
+8V,莱特航空服务公司,A,Wright Air Service Inc.,US
+8W,普莱维特之翼航空公司,A,Private Wings Flugcharter gmbh,DE
+8Y,中国邮政航空有限公司,C,China Postal Airlines Ltd.,CN
+9A,伊格普莱斯航空,J,Eaglexpress Air Charter Sdn.Bhd.dba Eaglexpress Air,MY
+9B,直访伙伴铁路公司,K,AccesRail and Partner Railways,CA
+9C,春秋航空,I,Spring Airlines Limited Corporation,CN
+9D,托迈航空公司,I,Toumai Air Tchad,TD
+9E,奋进航空公司,I,Endeavor Air,US
+9F,欧洲之星（英国）航空公司,K,Eurostar International Limited,GB
+9G,9G铁路,K,9G Rail Limited,GB
+9J,达纳航空有限公司,I,DANA AIRLINES LTD,NG
+9K,海恩尼斯航空服务公司,A,Hyannis Air Service, Inc. d/b/a Cape Air,US
+9L,西环线航空有限公司,A,West Link Airways Limited,NE
+9M,马西航空,J,Massy Airlines,CA
+9N,热带航空股份有限公司,I,Tropic Air Limited,BZ
+9P,佩特拉航空,I,Petra Airlines/Zuwar Investments Co. dbaPetra Airlines,JO
+9Q,凯科斯快运航空,I,Caicos Express Airways,TC
+9T,Havayollari 航空有限公司,C,ACT Havayollari A.S.,TR
+9U,摩尔多瓦航空公司,I,Air Moldova,MD
+9V,爱维尔航空公司,I,Avior Airlines, C.A.,VE
+9W,捷特航空（印度）有限公司,I,Jet Airways (India) Limited,IN
+9Y,佐治亚航空,I,FLY GEORGIA,GE
+A2,阿斯特拉航空公司,A,Astra Airlines,GR
+A3,爱琴航空公司,I,Aegean Airlines S.A.,GR
+A4,Aerocomercial东方北公司,I,Aerocomercial Oriente Norte Ltda,BO
+A5,,I,HOP!,FR
+A6,阿尔卑斯航空公司,A,AAA - Air Alps Aviation,AT
+A7,尼亚美航空公司,A,Air Niamey,NE
+A8,乌干达航空公司,A,Aerolink Uganda Limited,UG
+A9,格鲁吉亚航空公司,I,Georgian Airways,GE
+UK,无限航空,I,Vistara,IN
+C4,征服航空,I,Conquest Air, Inc.,US
+AC,加拿大航空公司,I,Air Canada,CA
+AD,阿祖林海航空公司,I,Azul Linhas Aereas Brasileiras,BR
+AE,华信航空公司,I,Mandarin Airlines Ltd.,TW
+AF,法国航空公司,I,Air France,FR
+AG,阿鲁巴航空公司,A,Arubaanse Luchtvaart Maatschappij N.V dba Aruba Airlines,AW
+AH,阿尔及利亚航空公司,I,Air Algerie,DZ
+AI,印度航空公司,I,Air India Limited,IN
+AJ,阿兹特克全球航空股份有限公司,C,Aztec Worldwide Airlines Inc.,US
+AK,亚洲航空公司,I,AirAsia Berhad dba AirAsia,MY
+AM,墨西哥航空公司,I,Aeromexico Aerovias de Mexico S.A. de C.V.,MX
+AN,Airlinair万吨航空,A,Airlinair t/a HOP!-AIRLINAIR,FR
+AO,一号私人航空有限公司,J,Air One Aviation Pvt Ltd dba Air One Aviation,IN
+AP,一号航空公司,I,Air One S.p.A,IT
+AR,阿根廷航空公司,I,Aerolineas Argentinas S.A.,AR
+AS,阿拉斯加航空公司,I,Alaska Airlines Inc.,US
+AT,摩洛哥王家航空公司,I,Royal Air Maroc,MA
+AU,奥斯特拉尔航空西罗斯航空公司,I,Cielos del Sur S.A. dba Austral Lineas Aereas S.A.,AR
+ND,FMI航空,I,FMI Air,MM
+AV,德尔大陆美式航空公司,I,Aerovias del Continente Americano S.A AVIANCA,CO
+AX,穿越国家航空公司,I,Trans States Airlines, LLC,US
+AZ,意大利航空公司,I,Alitalia-Compagnia Aerea Italiana S.p.A,IT
+B2,白俄罗斯航空公司,I,Belavia,BY
+B3,不丹航空,I,Bhutan Airlines dba Tashi Air Pvt Ltd,BT
+B5,东非狩猎快运航空公司,I,East African Safari Air Express Ltd.,KE
+B6,捷蓝航空公司,A,Jetblue Airways Corporation,US
+B7,立荣航空公司,I,UNI Airways Corporation,TW
+B8,厄立特里亚航空公司,I,Eritrean Airlines,ER
+B9,伊朗旅游航空公司,A,IRAN AIR TOURS,IR
+BB,海上运输航空公司,A,Seaborne Airlines,VI
+BC,天界航空有限公司,I,Skymark Airlines Inc.,JP
+BE,弗莱比航空嘉西欧洲航空公司,I,Flybe Limited,GB
+BG,孟加拉航空公司,I,Biman Bangladesh Airlines Limited,BD
+BH,Hawkair航空服务有限公司,A,Hawkair Aviation Services Ltd.,CA
+BI,文莱王家航空公司,I,Royal Brunei Airlines Sdn. Bhd.,BN
+BJ,突尼斯努威尔航空公司,I,Nouvelair Tunisie,TN
+BK,奥凯航空公司,J,Okay Airways Company Limited,CN
+BL,太平洋航空有限公司,I,Jetstar Pacific Airlines,VN
+BM,英国米德兰地区航空公司,I,British Midland Regional Limited t/a bmi Regional,GB
+BO,BB航空私人有限公司,I,BB Airways Pvt. Ltd.,NP
+BP,博茨瓦纳航空公司,I,Air Botswana,BW
+AQ,九元航空,I,9 Air,CN
+BS,英国国际航空,A,BRITISH INTERNATIONAL,GB
+BT,波罗的海航空公司,I,Air Baltic Corporation AS,LV
+3J,朱巴航空,D,JUBBA AIRWAYS LTD,KE
+BV,蓝色全景航空公司,I,Blue Panorama Airlines S.p.A.,IT
+BW,加勒比海航空有限公司,I,Caribbean Airlines Limited,TT
+BX,釜山航空,I,Air Busan,KR
+BY,汤姆森航空有限公司,I,Thomson Airways Limited,GB
+BZ,蓝箭航空有限公司,C,Blue Dart Aviation Ltd.,IN
+C1,Tectimes南美S.A.,H,Tectimes Sudamericana S.A.,AR
+C2,CEIBA洲际S.A,I,CEIBA Intercontinental S.A.,GQ
+BA,英国航空城市快运航空公司,I,British Airways p.l.c.,GB
+AY,芬兰航空公司,I,Finnair Oyj,FI
+H4,AERO4M航空,A,Aero4M d.o.o,SI
+B4,坦桑尼亚航空,A,ZanAir Limited,TZ
+BF,蓝鸟货运航空,C,Bluebird Cargo,IS
+C3,航贸易有限公司,I,Trade Air Ltd.,HR
+C5,科穆特航空公司,I,Champlain Enterprises Inc. dba Commutair,US
+C6,加拿大喷气航空公司,A,Canjet Airlines,CA
+C7,藏红花航空,A,Saffron Aviation (Pvt) Ltd dba Cinnamon Air,LK
+C8,意大利货航,C,Cargolux Italia S.p.A.,IT
+CA,中国国际航空公司,A,Air China Limited,CN
+CB,跨加勒比海航空进出口公司,I,Trans Caribbean Air Export Import, Inc.,US
+CC,CM航空公司,I,CM Airlines,HN
+CD,Corendon荷兰航空公司,B,Corendon Dutch Airlines,NL
+CE,Chalair航空,A,Chalair Aviation,FR
+CH,博米基航空公司,I,Bemidji Aviation Services, Inc.,US
+CI,中华航空公司,I,China Airlines,TW
+CJ,BA城巴机场快线有限公司,I,BA Cityflyer Limited,GB
+CK,中国货运航空公司,C,China Cargo Airlines Ltd.,CN
+CL,汉莎城市航空公司,I,Lufthansa CityLine GmbH,DE
+CM,巴拿马空运公司,I,Compania Panamena de Aviacion, S.A. (COPA),PA
+CN,大新华航空,I,Grand China Air Co. , Ltd.,CN
+CO,大陆航空公司,I,CONTINENTAL AIRLINES,US
+CP,北斗航空公司,I,Compass Airlines Inc.,US
+CQ,Charterlines公司,D,Charterlines, Inc.,US
+CR,UBM航空 -  OAG,F,UBM Aviation - OAG,GB
+CS,大陆密克罗尼西亚分公司,I,Continental Micronesia, Inc.,GU
+CT,意大利航空公司,A,Alitalia CityLiner S.p.A.,IT
+CU,古巴航空公司,I,Cubana de Aviacion S.A.,CU
+CV,卢森堡国际货运航空公司,C,Cargolux Airlines International S.A.,LU
+DP,胜利航空,A,Pobeda,RU
+CY,塞浦路斯航空公司,I,Cyprus Airways Limited,CY
+CZ,中国南方航空公司,I,China Southern Airlines,CN
+D0,DHL航空公司,C,DHL Air Limited,GB
+D2,塞维斯陶航空有限公司,A,Severstal Aircompany Ltd,RU
+D4,阿里道尼航空公司,A,Alidaunia S.R.L.,IT
+D5,DHL航空快递,C,DHL Aero Expreso S.A.,PA
+D6,南非英特航空服务公司,I,Inter-Aviation Services dba Interair South Africa,ZA
+D7,亚航,I,AIRASIA X,MY
+D8,挪威航空国际有限公司,I,Norwegian Air International Ltd.,IE
+D9,DONAVIA公司,I,JSC DONAVIA,RU
+DB,英式航空公司,I,Brit Air t/a HOP!-BRIT AIR,FR
+O6,大洋航空,I,Oceanair Linhas Aereas Ltda.,BR
+GX,广西北部湾航空,I,GUANGXI BEIBU GULF AIRLINES,CN
+D3,达洛航空公司,I,Daallo Airlines,DJ
+DC,BRAATHENS航空公司,A,BRAATHENS REGIONAL AB,SE
+DD,诺克航空亚洲航空有限公司,A,NOK AIR,TH
+DE,Condor Flugdienst航空公司,I,Condor Flugdienst GmbH,DE
+DF,柏林航空公司,A,Condor Berlin GmbH,DE
+DG,东南亚航空公司,A,South East Asian Airlines,PH
+DH,挪威空航,J,Norwegian Air Norway AS,NO
+DI,柬埔寨航空公司,I,Cambodia Airlines t/a Cambodia Airlines Co. Ltd.,KH
+DJ,维尔京蓝航空有限公司,I,VIRGIN AUSTRALIA AIRLINES,AU
+DK,托马斯库克航空公司,J,Thomas Cook Airlines Scandinavia A/S,DK
+DL,达美航空公司,I,Delta Air Lines Inc.,US
+DM,亚洲航空有限责任公司,I,Asian Air Company Limited,TH
+DN,塞内加尔航空公司,A,Groupe Air Senegal (Senegal Airlines),SN
+DQ,直连航空,I,Air Direct Connect Ltd.,KE
+DS,瑞士易捷航空公司,A,Easyjet Switzerland S.A,CH
+DT,安哥拉航空公司,I,TAAG - Linhas Aereas de Angola (Angola Airlines),AO
+DU,挪威航空公司,I,Norwegian Long Haul AS,NO
+DX,丹麦航空公司,I,Danish Air Transport,DK
+DY,挪威穿梭航空公司,I,Norwegian Air Shuttle A.S.,NO
+E2,鹰大西洋航空有限公司,I,Eagle Atlantic Airlines Limited,GH
+E3,萨柏堤航空有限公司,I,Sabaidee airways Co. Ltd.,TH
+E4,埃斯特拉航空公司,I,Estelar Latinoamerica C.A.,VE
+E5,阿拉伯埃及航空公司,I,Air Arabia Egypt,EG
+E6,航空货运出租汽车,D,Bringer Air Cargo Taxi Aereo Ltda,BR
+E7,Equaflight航空公司,A,Equaflight Service,CG
+E8,都市航空,I,CITY AIRWAYS,TH
+E9,Evelop航空公司,I,Evelop Airlines S.L.,ES
+EA,东方地平线航空有限公司,I,East Horizon Airlines Private Company Ltd dba East Horizon Airlines,AF
+EB,普尔曼特航空公司,I,PULLMANTUR AIR,ES
+EC,Openskies,I,Openskies,FR
+ED,AirExplore,B,AirExplore, s.r.o.,SK
+EE,东方SKYJETS,I,EASTERN SKYJETS,AE
+EF,伊斯尼斯航空,I,Eznis Airways Co. Ltd.,MN
+EH,全日空网络航空公司,I,ANA Wings Co., Ltd.,JP
+EI,爱尔兰航空公司,I,Aer Lingus Limited,IE
+EJ,新英格兰航空公司,A,New England Airlines,US
+EK,阿联酋航空公司,I,Emirates,AE
+DZ,东海航空有限公司,I,Donghai Airlines Co., Ltd,CN
+EM,帝国航空公司,C,Empire Airlines,US
+EN,多洛米蒂航空公司,I,Air Dolomiti S.p.A. Linee Aeree Regionali Europee,IT
+EO,埃及航空公司,I,Air Go Egypt,EG
+EP,伊朗阿森曼航空公司,I,Iran Aseman Airlines,IR
+EQ,厄瓜多尔塔梅航空公司,I,TAME Linea Aerea del Ecuador,EC
+ER,阿斯特航空货运公司,C,Astar Air Cargo,US
+ES,DHL航空,C,DHL Aviation EEMEA B.S.C.(c),BH
+ET,埃塞俄比亚航空公司,I,Ethiopian Airlines Enterprise,ET
+EU,成都航空有限公司,I,Chengdu Airlines,CN
+EV,ExpressJet航空公司,I,ExpressJet Airlines, Inc.,US
+EW,欧洲之翼航空公司,I,Eurowings GmbH,DE
+EX,大西洋航空公司,J,Atlantic Airlines, Inc,US
+EY,阿联酋联合航空公司,I,Etihad Airways,AE
+EZ,斯堪的纳维亚航空公司,A,Sun Air of Scandinavia A.S.,DK
+F1,Farelogix公司,H,Farelogix Inc.,US
+F2,Safarilink航空有限公司,A,Safarilink Aviation Limited,KE
+F3,Propilot公司,I,Propilot, Inc.,PR
+F4,弗拉门戈航空公司,I,Air Charter, Inc. dba Air Flamenco,PR
+F5,Fly540航空公司,I,FLY540 S.A,AO
+F7,达尔文航空公司,I,Darwin Airline SA,CH
+F8,天才航空有限公司,J,Flair Airlines Ltd.,CA
+F9,边疆航空公司,I,Frontier Airlines, Inc.,US
+FA,Safair（专有）有限公司,C,Safair (Proprietary) Ltd.,ZA
+FB,保加利亚航空,I,Bulgaria Air,BG
+FD,泰国亚洲航空有限公司,I,Thai AirAsia Co., Ltd.,TH
+FE,远东航空运输公司,I,Far Eastern Air Transport Corp.,TW
+FF,,G,Airshop B.V.,NL
+FG,阿富汗阿里亚纳航空公司,I,Ariana Afghan Airlines,AF
+FH,自由鸟航空,B,Freebird Airlines,TR
+FI,冰岛航空公司,I,Icelandair,IS
+FJ,太平洋航空公司,I,Air Pacific Limited t/a Fiji Airways,FJ
+FL,穿越航空公司,I,AirTran Airways, Inc.,US
+FM,上海航空有限公司,I,Shanghai Airlines Co. Ltd.,CN
+FN,法斯加特航空公司,I,Fastjet Airlines Limited,TZ
+FO,费利克斯航空,I,Felix Airways,YE
+FQ,威亚空联国际公司,D,Avia Airlink International Corporation,US
+FS,西法克斯航空公司,I,Syphax Airlines S A,TN
+FT,暹粒国际航空公司,I,Siem Reap Airways International,US
+FV,俄国报航空公司,I,Rossiya Airlines Open Joint Stock Company,RU
+FW,IBEX航空有限责任公司,A,IBEX Airlines Co., Ltd.,JP
+FX,联邦快递公司,C,FedEx,US
+FY,Bhd公司,I,FlyFirefly Sdn. Bhd,MY
+FZ,杜拜航空,I,flydubai,AE
+G2,加蓬爱维莱克航空公司,J,Alianza Glancelot, C.A.,VE
+G3,VRG天马航空公司,I,VRG Linhas Aereas S.A.,BR
+G4,阿里真特航空公司,A,Allegiant Air LLC,US
+G5,华夏航空,I,China Express Airlines,CN
+G7,GOJET航空公司,I,GoJet Airlines LLC,US
+G8,GO航空公司,A,Go Airlines (India) Ltd.,IN
+G9,阿拉伯航空公司,I,Air Arabia,AE
+HT,宁夏货运航空有限公司,C,NINGXIA CARGO AIRLINES CO.,CN
+GB,空中快递公司,C,ABX Air, Inc.,US
+GC,环球接驳服务有限责任公司,C,Global Feeder Services, LLC,US
+GE,复兴航空公司,I,TransAsia Airways Corporation,TW
+GF,海湾航空公司,I,Gulf Air B.S.C. (c),BH
+GG,天空租赁公司,C,Sky Lease I, Inc.,US
+GH,格鲁巴斯航空公司,J,Globus LLC,RU
+GI,日尔曼尼亚航空公司,J,Germania Express Fluggesellschaft mbh,DE
+GK,捷星航空,I,JETSTAR JAPAN,JP
+GL,格陵兰航空公司,I,Air Greenland A/S,GL
+GO,ULS货运航空,D,ULS Airlines Cargo,TR
+GQ,高空航空公司,I,Sky Express S.A.,GR
+GR,奥里尼航空公司,I,Aurigny Air Services Limited,GB
+GT,格鲁吉亚有限公司,A,Vista Georgia Ltd,GE
+GU,,I,AVIATECA,GT
+GV,格兰特航空有限公司,A,Grant Aviation, Inc.,US
+GW,Skygreece航空公司,I,Skygreece Airlines SA,GR
+GY,天空Bishek,I,Sky Bishek,KG
+GZ,拉罗汤加航空公司,A,Air Rarotonga,CK
+G6,古达米斯航空运输,I,Ghadames Air Transport,LY
+GS,天津航空有限责任公司,I,TianJin Airlines Co. Ltd,CN
+H2,空中航空公司,I,Sky Airline S.A.,CL
+H3,爱马仕航空公司,B,Hermes Airlines S.A.,GR
+H5,海地航空,I,Haiti Aviation S.A.,HT
+H6,哈格兰航空公司,A,Hageland Aviation Services, Inc.,US
+H7,鹰航空公司,A,Eagle Air Ltd.,UG
+H8,格萨航空公司,A,Hesa Airlines,IR
+HA,夏威夷航空公司,I,Hawaiian Airlines, Inc.,US
+HB,亚洲大西洋航空有限责任公司,J,Asia Atlantic Airlines Co., Ltd,TH
+HD,北海道国际航空公司,I,Airdo Co., Ltd,JP
+HE,LGW航空公司?瓦尔特航空公司,A,LGW-Luftfahrtgesellschaft Walter GmbH,DE
+HF,科特迪瓦航空公司,I,Air Cote D'Ivoire,CI
+HG,尼基航空公司,A,NIKI Luftfahrt GmbH,AT
+O9,诺瓦航空,I,NOVA Airlines,SD
+HH,,I,TABAN AIR,IR
+HI,帕皮龙航空公司,A,Papillon Airways, Inc.,US
+HJ,塔斯曼货运航空公司,C,Tasman Cargo Airlines PTY LTD,AU
+HK,汉堡航空公司,I,HHA Hamburg Airways Luftverkehrsgesellschaft mbH,DE
+HM,塞舌尔航空公司,I,Air Seychelles Limited,SC
+HN,阿捷国际航空,I,Afghan Jet International Airlines,AF
+HO,上海吉祥航空有限公司,I,Juneyao Airlines Co,. Ltd.,CN
+HP,阿马波拉航空公司,I,Amapola Flyg AB,SE
+HQ,托马斯库克航空公司,A,Thomas Cook Airlines Belgium N.V.,BE
+HR,哈恩航空公司,I,Hahn Air Lines,DE
+HS,瑞典直飞航空公司,A,Svenska Direktflyg AB,SE
+HU,海南航空公司,I,Hainan Airlines Company Limited,CN
+HV,贯空航空公司,I,Transavia Airlines,NL
+HW,诺思莱特航空公司,A,North-Wright Airways Ltd.,CA
+HX,香港航空,I,Hong Kong Airlines Limited,HK
+HY,乌兹别克斯坦航空公司,I,Uzbekistan Airways,UZ
+I2,伊比利亚快运航空,I,Compania Operadora de Corto y Medio Radio Iberia Express, S.A.U,ES
+I3,ATA航空公司,I,ATA AIRLINES,IR
+I4,斯科特航空,I,Scott Air, LLC dba Island Air Express,US
+I6,空中梧桐航空有限公司,I,Air Indus (Private) Limited,PK
+I8,伊扎瓦航空,I,Izhavia Public Stock Company,RU
+VK,瓦利航空,B,Air Vallee,IT
+ID,巴提克航空公司,I,BATIK AIR,ID
+IE,所罗门航空公司,I,Solomon Airlines Limited,SB
+IF,墨西哥湾和加勒比海货运,D,Gulf & Caribbean Cargo, Inc,US
+IG,默里迪纳航空公司,I,Meridiana fly S.p.A.,IT
+II,IBC航空公司,C,IBC Airways, Inc.,US
+IJ,春天航空,I,Spring Airlines Japan Co. Ltd.,JP
+IK,爱卡航空公司,J,LLC IKAR,RU
+IL,崔格兰航空有限公司,A,PT TRIGANA AIR,ID
+IQ,奥格斯堡航空公司,I,AUGSBURG AIRWAYS,DE
+IR,伊朗伊斯兰共和国航空公司,I,Iran Air The Airline of Islamic Republic of Iran,IR
+IS,爱斯航空公司,A,AIS Airlines B.V.,NL
+IV,里海航空服务有限责任公司,I,Caspian Airlines Service Company Ltd.,IR
+IW,阿巴迪翼航空,I,PT. Wings Abadi Airlines,ID
+IX,印度包机航空公司,A,Air India Charters Limited,IN
+IY,也门航空公司,I,Yemenia - Yemen Airways,YE
+IZ,阿基亚以色列航空公司,I,Arkia - Israeli Airlines Ltd,IL
+J1,海上航空,H,Primair, Inc.,US
+J2,阿塞拜疆航空公司,I,Azerbaijan Hava Yollary,AZ
+XW,飞鸟酷航,B,NokScoot Airlines Co Ltd,TH
+J3,西北航空租赁公司,I,Northwestern Air Lease Ltd.,CA
+J4,巴德尔航空公司,I,Badr Airlines,SD
+J5,阿拉斯加海上航空公司,A,Alaska Seaplane Service, L.L.C.,US
+J6,Jet Ops公司,J,Jet Ops,AE
+J7,德尼姆航空公司,A,Denim Air ACMI B.V.,NL
+J8,白贾亚航空公司,A,Berjaya Air Sdn. Bhd.,MY
+J9,半岛航空公司,I,Jazeera Airways,KW
+JA,波斯尼亚航空公司,I,B & H Airlines,BA
+JB,国际直升机航空公司,I,Helijet International Inc.,CA
+JC,日本国际快运航空公司,I,JAL Express,JP
+JD,北京首都航空有限公司,I,Beijing Capital Airlines Co. Ltd.,CN
+JE,南非芒果航空,A,Mango Airlines (Pty) Ltd trading as MANGO,ZA
+JF,捷星亚洲航空公司,I,Jet Asia Airways Company Limited dba Jet Asia,TH
+JH,富士梦幻航空公司,A,Fuji Dream Airlines Co. Ltd,JP
+JJ,TAM航空公司,I,TAM Linhas Aereas S.A.,BR
+OH,科姆航空公司,I,COMAIR INC,US
+JN,纽利文斯顿航空公司,I,New Livingston S.p.A,IT
+JO,捷时航空公司,J,Jet Time A/S,DK
+JP,斯洛文尼亚亚得里亚航空公司,I,Adria Airways - The Airline of Slovenia,SI
+JQ,捷星航空公司,A,Jetstar Airways Pty Limited,AU
+JR,幸福航空有限责任公司,I,Joy Air,CN
+JS,高利航空商社,I,Air Koryo,KP
+JT,雄狮航空公司,A,Lion Airlines,ID
+JU,塞尔维亚航空运输公司,I,JSC for Air Traffic-Air SERBIA Belgrade t/a Air Serbia a.d. Beograd,RS
+JV,贝尔斯金航空公司,I,Bearskin Lake air services LP,CA
+JW,香草航空公司,I,Vanilla Air Inc.,JP
+JY,泛加勒比海航空公司,A,Intercaribbean Airways, Ltd.,TC
+JZ,雅达尤航空公司,A,PT. Jatayu Gelang Sejahtera,ID
+K1,托帕斯预订系统公司,H,Topas Co. Ltd.,KR
+K2,欧洲波兰航空公司,A,EuroLot S.A.,PL
+K3,塔曲安航空服务公司,A,Venture Travel, LLC dba Taquan Air,US
+K4,卡利塔航空公司,C,Kalitta Air, LLC,US
+K5,阿拉斯加之翼航空公司,A,SeaPort Airlines, Inc. dba Wings of Alaska,US
+K6,柬埔寨吴哥航空公司,I,Cambodia Angkor Air t/a Cambodia Angkor Air Co., Ltd.,KH
+K7,KBZ航空公司,I,Air KBZ Ltd.,MM
+K8,Kannithi航空公司,A,Kannithi Aviation Company Limited dba Kan Air,TH
+KE,大韩航空公司,I,Korean Air Lines Co. Ltd.,KR
+BU,布拉森斯南美和远东航空公司,I,Braathens ASA,CD
+KA,港龙航空公司,I,Hong Kong Dragon Airlines Limited,HK
+KB,德鲁克航空公司,I,Druk Air Corporation Ltd.,BT
+KC,阿斯塔纳航空,I,Air Astana,KZ
+KD,卡尔斯塔航空公司,I,PT Kal Star Aviation,ID
+KF,蓝色第一航空公司,I,Blue1 Oy,FI
+KG,克力姆航空公司,J,Key Lime Air Corporation,US
+KH,阿罗哈货运航空公司,C,Aeko Kula, Inc. DBA Aloha Air Cargo,US
+KJ,仁川航空,I,Air Incheon Co, Ltd,KR
+KK,阿特拉斯喷气航空公司,I,Atlasjet Airlines Inc.,TR
+KL,荷兰皇家航空公司,I,KLM Royal Dutch Airlines,NL
+KM,马耳他航空公司,I,Air Malta p.l.c.,MT
+KN,中国联合航空公司,I,China United Airlines,CN
+KO,阿拉斯加中部快运,C,Alaska Central Express,US
+KP,问天航空公司,I,Compagnie Aerienne ASKY dba ASKY,TG
+KQ,肯尼亚航空公司,I,Kenya Airways,KE
+KR,比什凯克航空公司,I,Air Bishkek Aircompany dba Air Bishkek Ltd. Aircompany,KG
+KS,潘奈尔航空公司,I,Penair,US
+KT,卡特迈航空有限责任公司,A,Katmai Air LLC,US
+KU,科威特航空公司,I,Kuwait Airways,KW
+KV,亚洲快运航空公司,I,Aircompany Asian Express Airline LLC,TJ
+KX,开曼航空公司,I,Cayman Airways Limited,KY
+KY,昆明航空有限公司,I,Kunming Airlines,CN
+KZ,日本货运航空公司,C,Nippon Cargo Airlines,JP
+L1,E-Savtravel预订系统公司,H,E-Savtravel,PE
+L2,林登航空货运公司,C,Lynden Air Cargo, LLC,US
+L3,危地马拉敦豪航空公司,C,DHL de Guatemala S.A.,GT
+L4,莱格斯航空公司,J,Legacy Air Co. Ltd.,TH
+L5,直升机服务航空公司,A,Helikopter Service A.S.,EC
+L6,毛里塔尼亚国际航空公司,I,Mauritanian Airlines International,MR
+L7,哥伦比亚航空,C,Linea Aerea Carguera de Colombia S.A.,CO
+L8,加蓬航空公司,A,EQUAFLIGHT GABON,GA
+L9,百丽欧洲航空公司,I,Belle Air Europe s.r.l.,IT
+BD,柬埔寨巴戎寺航空公司,I,Cambodia Bayon Airlines Limited,KH
+LB,科斯塔航空公司,A,LEPL Projects Limited dba Air Costa,IN
+LC,赤道刚果航空公司,I,Equatorial Congo Airlines (ECAIR),CG
+LD,华民航空公司,C,AHK Air Hong Kong Limited,HK
+LE,拉帕肯航空,C,Laparkan Airways, Inc.,GY
+LF,老挝中央航空公司,I,Lao Central Airlines Public Company,LA
+LG,卢森堡航空公司,I,Luxair,LU
+LH,汉莎航空公司,I,Deutsche Lufthansa AG,DE
+LI,背风群岛航空公司,I,LIAT (1974) Ltd.,AG
+LK,Kyrgyz航空公司,I,Kyrgyz Airlines,KG
+LL,迈阿密国际航空,B,Miami Air International,US
+LM,洛根航空公司,I,Loganair Limited,GB
+LN,利比亚阿拉伯航空公司,I,Libyan Airlines,LY
+LO,波兰航空公司,I,LOT - Polish Airlines,PL
+LP,秘鲁航空公司,I,Lan Peru S.A.,PE
+LQ,亚洲天网航空公司,I,SKYNET ASIA AWYS,JP
+LR,拉斯卡航空公司,I,Lineas Aereas Costarricenses S.A. (LACSA),CR
+LS,杰特图航空公司,I,JET2.COM,GB
+LT,立陶宛航空公司,I,JSC Air Lituanica,LT
+LU,拉恩快运航空公司,I,LANEXPRESS,CL
+LV,马尔代夫美佳航空公司,I,Mega Global Air Services (Maldives) Pvt Ltd. t/a Mega Maldives,MV
+LW,太平洋之翼航空内华达航空公司,I,Pacific Wings, L.L.C.,US
+LX,瑞士国际航空公司,I,SWISS International Air Lines Ltd dba SWISS,CH
+LY,以色列航空公司,I,El Al Israel Airlines Ltd.,IL
+LZ,百丽航空,I,Belle Air Company,AL
+M2,马赫福兹航空公司,A,MHS Aviation GmbH,DE
+M3,北方飞行航空公司,A,North Flying A/S.,DK
+M4,斯玛特航空公司,A,Smart Aviation,EG
+M5,肯莫尔航空公司,A,Kenmore Air,US
+M6,美国喷气国际航空公司,C,Amerijet International Inc.,US
+M7,马斯兰航空,C,Aerotransportes Mas de Carga S.A. de C.V.,MX
+M8,大空货运,I,AIRMAX CARGO S.A,PE
+M9,斯奇发动机公司,I,Motor-Sich JSC,UA
+MB,MNG货运航空公司,C,MNG Airlines Cargo,TR
+MC,空军机动司令部,J,Air Mobility Command,US
+MD,马达加斯加航空公司,I,Air Madagascar,MG
+ME,中东航空公司,I,Middle East Airlines AirLiban,LB
+MF,厦门航空公司,I,Xiamen Airlines,CN
+MG,米德克斯航空公司,C,Midex Airlines,AE
+LJ,韩国真航空,A,Jin Air Co. Ltd,KR
+MI,胜安航空有限公司,I,SilkAir (S) Pte. Ltd.,SG
+MJ,斯里兰卡航空公司,I,Mihin Lanka (Pvt) Ltd.,LK
+MK,毛里求斯航空公司,I,Air Mauritius,MU
+ML,地中海航空公司,I,Air Mediterranee,FR
+MM,乐桃航空公司,A,Peach Aviation Limited,JP
+MN,科姆航空公司,I,Comair Ltd.,ZA
+CG,巴布亚新几内亚航空公司,I,Airlines of Papua New Guinea Limited,PG
+MO,静空航空,I,Calm Air International Ltd.,CA
+MP,马丁航空公司,I,Martinair Holland N.V.,NL
+NZ,新西兰航空公司,I,Air New Zealand Limited,NZ
+MQ,美利坚鹰航空公司,I,American Eagle Airlines, Inc. dba American Eagle,US
+MR,匈奴航空公司,I,Hunnu Air LLC,MN
+MS,埃及航空公司,I,Egyptair,EG
+MU,中国东方航空公司,I,China Eastern Airlines,CN
+MW,莫库勒勒航空公司,I,Mokulele Flight Service,US
+DO,探索航空公司,A,Discovery Airways Limited,NG
+MY,玛雅岛航空,C,MAYA ISLAND AIR,BZ
+MZ,AMC航空公司,B,AMC Airlines,EG
+N2,地中海航空公司,C,Trans-Mediterranean Airways,LB
+N3,MAS航空公司,I,Aerolineas MAS, S.A.,DM
+N4,诺得文航空,J,LLC Nord Wind,RU
+N5,地中海航空公司,J,Mediterranean Aviation Company Ltd.,MT
+N7,海王星航空公司,C,Neptune Air Sdn Bhd,MY
+N9,诺瓦航空公司,J,Nova Airlines AB,SE
+NA,北美航空公司,J,North American Airlines, Inc.,US
+NB,天能快运航空公司,I,Skypower Express Airways Ltd.,NE
+NC,北方航空货运公司,C,Northern Air Cargo, Inc.,US
+NE,奈斯玛航空公司,A,Nesma Airlines,EG
+NF,瓦努阿图（营运）航空公司,I,Air Vanuatu (Operations) Limited,VU
+NG,尼日利亚航空公司,I,Aero Contractors Company Nigeria Ltd.,NE
+NH,全日空航空公司,I,All Nippon Airways Co. Ltd.,JP
+NI,葡萄牙航空公司,I,Portugalia - Companhia Portuguesa de Transportes Aereos SA,PT
+NJ,诺迪斯科航空公司,D,Nordic Global Airlines Oy,FI
+NK,精神航空公司,I,Spirit Airlines,US
+NL,沙欣国际航空公司,I,Shaheen Air International,PK
+NN,维姆航空公司,I,VIM Airlines,RU
+NO,尼奥斯航空公司,J,Neos S.P.A.,IT
+NP,奈乐航空公司,A,Nile Air,EG
+NQ,日本航空公司,I,Air Japan Company Ltd.,JP
+NS,河北航空公司,I,Hebei Airlines Co., Ltd.,CN
+NT,加那利航空公司,A,Binter Canarias,ES
+NU,日本越洋航空公司,I,Japan Transocean Air Co. Ltd.,JP
+NV,伊朗航空公司,A,IRANIAN NAFT AIRLINES,IR
+NX,澳门航空公司,I,Air Macau Company Limited,MO
+NY,冰岛航空公司,I,Flugfelag Islands ehf dba Air Iceland,IS
+O3,顺丰航空,C,SF Airlines Company Limited,CN
+O4,盎特来克航空,I,Antrak Air Limited,GH
+JG,捷运澳航,A,Jetgo Australia,AU
+OA,奥林匹克航空公司,I,Olympic Air,GR
+OB,玻利维亚航空公司,I,Boliviana de Aviacion (BoA),BO
+OC,东方天桥航空公司,I,Oriental Air Bridge Co., Ltd.,JP
+OD,马印航空公司,I,Malindo Airways Sdn Bhd ( Malindo Air),MY
+OE,卡里奥航空公司,J,Cairo Aviation,EG
+OG,奥尼克斯航空,I,AIR ONIX,UA
+GM,日耳曼尼亚航空,A,Germania Flug AG,CH
+OJ,牙买加航空公司,I,Fly Jamaica Airways,JM
+OK,捷克航空公司,I,Czech Airlines a.s,. CSA,CZ
+OM,蒙古航空公司,I,MIAT - Mongolian Airlines,MN
+ON,瑙鲁航空公司,I,Nauru Air Corporation t/a Our Airline,AU
+OO,西方天空航空公司,I,SkyWest Airlines,US
+OQ,重庆航空有限责任公司,I,Chongqing Airlines Co. Ltd,CN
+OR,荷兰TUI航空,I,TUI Airlines Nederland B.V.,NL
+OS,奥地利航空公司,I,Austrian Airlines AG dba Austrian,AT
+OT,鹈鹕航空公司,A,AEROPELICAN AIR SERVICES,AU
+OU,克罗地亚航空公司,I,Croatia Airlines,HR
+OV,爱沙尼亚航空公司,I,Estonian Air,EE
+OW,总裁航空公司,I,EXECUTIVE AIRLINES, INC.,US
+OX,泰国东方航空公司,I,Orient Thai Airlines,TH
+OY,安第斯航空公司,B,Andes Lineas Aereas S.A.,AR
+OZ,韩亚航空公司,I,Asiana Airlines Inc.,KR
+P0,超越航空通勤服务公司,A,Proflight Commuter Services LTD,ZM
+P1,大众宪章航空公司,H,Aviation Technologies Inc. dba Publiccharters.com,US
+P2,肯尼亚快运航空公司,I,AirKenya Express Limited,KE
+P4,索萨航空公司,A,Aerolineas Sosa S.A> de C.V.,HN
+P5,共和国航空公司,I,Aero Republica S.A.,CO
+P6,帕斯坎航空公司,I,Pascan Aviation Inc.,CA
+P8,帕克韦斯特航空公司,J,Pak West Airlines Inc.,US
+P9,秘鲁航空公司,I,Peruvian Air Line S.A.,PE
+PA,蓝色航空公司,I,M/S Airblue (PVT) Ltd,PK
+PB,普洛文希尔航空公司,I,Provincial Airlines,CA
+PC,天马航空公司,I,Pegasus Hava Tasimaciligi A.S.,TR
+PD,波特航空公司,I,Porter Airlines Inc.,CA
+PE,维也纳航空公司,A,Altenrhein Luftfahrt GmbH,AT
+PF,斯堪的纳维亚航空公司,I,Primera Air Scandinavia A/S,DK
+PG,曼谷航空公司,I,Bangkok Airways Public Company Limited,TH
+PH,凤凰航空集团,J,Phoenix Air Group, Inc.,US
+PI,极地航空公司,A,Polar Airlines OJSC,RU
+PJ,圣皮埃尔航空公司,I,Air Saint Pierre,PM
+PK,巴基斯坦国际航空公司,I,Pakistan International Airlines,PK
+PL,南方航空包机有限公司,I,Southern Air Charter Co., Limited,BS
+PM,金丝雀航空公司,I,Canary Fly, S.A.,ES
+PN,西部航空有限责任公司,I,China West Air Co. Ltd.,CN
+PO,极地货运航空公司,C,Polar Air Cargo Worldwide, Inc.,US
+PP,喷气航空公务航空公司,J,Jet Aviation Business Jets AG,CH
+PQ,亚洲航空公司,I,AirAsia Inc.,MY
+PR,菲律宾航空公司,I,Philippine Airlines, Inc.,PH
+PU,乌拉圭第一航空公司,I,PLUNA,UY
+PV,圣巴特通勤航空公司,A,Saint Barth Commuter,GP
+PW,普雷西赛恩航空服务公司,A,Precision Air Services Ltd.,TZ
+PX,新几内亚航空公司,I,Air Niugini Pty Limited dba Air Niugini,GN
+PY,苏里南航空有限公司,I,Surinam Airways Ltd.,SR
+PZ,巴拉圭航空运输公司,I,TAM - Transportes Aereos del Mercosur S.A.,PY
+Q1,Sqiva分销公司,H,PT. Sqiva Sistem,ID
+Q2,爱兰德航空公司,I,Island Aviation Services Ltd.,MV
+Q3,安圭拉航空公司,A,Anguilla Air Services, Ltd,AI
+Q4,阿米利航空公司,B,Amiri Flight,QA
+Q5,40哩航空公司,I,40-Mile Air, Ltd.,US
+Q6,天行航空公司,A,Skytrans Regional PTY Ltd.,AU
+Q7,巴哈马航空公司,A,SkyBahamas Airlines,BS
+Q8,刚果航空公司,A,Trans Air Congo (TAC),CG
+Q9,天空喷射航空,A,Sky Jet M.G. Inc.,CA
+QA,丹麦廉价航空公司,J,Cimber A/S,DK
+QC,喀麦隆航空公司,I,Cameroon Airlines Corporation (Camair-Co),CM
+QG,印度尼西亚联城航空,A,PT. Citilink Indonesia,ID
+QH,吉尔吉斯斯坦航空公司,I,Aircompany Kyrgyzstan,KG
+QJ,捷特航空公司,C,Jet Airways Inc.,US
+QK,加拿大爵士航空公司,I,Jazz Aviation LP,CA
+QL,委内瑞拉航空公司,I,Linea Aerea de Servicio Ejecutivo Regional Laser C.A,VE
+QM,马拉维航空公司,I,Air Malawi Limited,MW
+QN,亚美尼亚航空公司,I,Air Armenia,AM
+QO,快捷货运航空公司,C,Quikjet Cargo Airlines Pvt. Ltd,IN
+QP,星光航空公司,C,Starlight Airline,ST
+QQ,联盟航空公司,A,ALLIANCE AIRLINES,AU
+QS,捷克航空公司,A,Travel Service, A.S.,CZ
+QT,坦帕货运公司,C,Tampa Cargo S.A.,US
+QU,乌塔尔航空公司,I,Airline Utair - Ukraine,UA
+QR,卡塔尔航空公司,I,Qatar Airways(Q.C.S.C),QA
+QV,老挝航空,I,Lao Airlines,LA
+QX,地平线航空公司,I,Horizon Air Industries, Inc.,US
+QY,欧洲航空运输公司,C,European Air Transport Leipzig GmbH,DE
+QZ,印度尼西亚亚洲航空公司,I,PT. Indonesia AirAsia,ID
+R1,Zapways公司,H,Zapways, Inc.,US
+R4,亚美尼亚廉价航空公司,I,Reliable Unique Services Aviation LLC,AM
+R5,乔丹航空公司,I,Jordan Aviation,JO
+R6,DOT航空公司,A,DOT LT,LT
+R7,阿塞卡航空公司,A,Aserca Airlines, C.A.,VE
+RA,尼泊尔王家航空公司,I,Nepal Airlines Corporation,NP
+RB,叙利亚阿拉伯航空公司,I,Syrian Arab Airlines,SY
+RC,法罗群岛大西洋航空公司,I,Atlantic Airways, Faroe Islands, P/F,FO
+RE,阿伦航空公司,I,AER ARANN,IE
+RF,佛罗里达西部国际航空股份有限公司,C,Florida West International Airways, Inc.,US
+RG,罗塔那喷气航空公司,A,Rotana Jet Aviation dba Rotana Jet,AE
+RH,共和快运航空公司,C,PT Republic Express Airlines,ID
+RI,曼达拉航空公司,I,PT. Mandala Airlines,ID
+RK,天视航空公司,J,Skyview Airways Company Limited dba Skyview,TH
+RL,皇家猎鹰航空公司,C,ROYAL FALCON,JO
+RO,罗马尼亚塔罗姆航空公司,I,TAROM - Transporturile Aeriene Romane S.A.,RO
+RP,肖托夸航空公司,I,Chautauqua Airlines Inc.,US
+RQ,卡姆航空公司,I,Kam Air,AE
+RR,佛斯皇家航空公司,A,Royal Air Force,GB
+RS,天域航空公司,A,Sky Regional Airlines Inc.,CA
+RT,拉克航空公司,I,RAK AIRWAYS,NL
+RU,天桥货运航空公司,C,AirBridgeCargo Airlines LLC,RU
+RV,胭脂航空公司,I,8165343 Canada Inc. dba Air Canada rouge,CA
+RX,雷根特航空,I,HG Aviation Limited dba Regent Airways,BD
+RY,皇家之翼航空公司,B,Royal Wings,JO
+RZ,哥斯达黎加航空公司,A,SANSA AIRLINES,CR
+S1,汉莎预订系统公司,H,Lufthansa Systems AG,DE
+S2,捷特航空公司,I,Jet Lite (India) Limited,IN
+S3,圣巴巴拉航空公司,A,Santa Barbara Airlines C.A.,VE
+S4,塞塔国际航空公司,I,SATA International Servicos e Transportes Aereos S.A.,PT
+S5,美国穿梭航空公司,I,Shuttle America,US
+S6,日出航空公司,I,Sunrise Airways S.A.,HT
+S9,星际航空公司,I,Aero Surveys Ltd t/a Starbow,GH
+SA,南非航空公司,I,South African Airways,ZA
+S7,塞尔维亚航空公司,I,Siberia Airlines,RU
+SB,喀里多尼亚国际航空公司,I,Air Caledonie International,NC
+SC,山东航空公司,I,Shandong Airlines,CN
+SD,苏丹航空有限公司,I,Sudan Airways Co. Ltd.,SD
+SE,XL航空公司,I,XL Airways France,FR
+SF,塔希里航空公司,A,Tassili Airlines,DZ
+SG,捷高航空公司,I,SpiceJet Ltd.,IN
+SH,夏普航空公司,I,Sharp Aviation Pty. Ltd t/a Sharp Airlines,AU
+SI,蓝岛航空有限公司,I,Blue Islands Limited,GB
+SJ,斯里维加亚航空公司,I,PT. Sriwijaya Air,ID
+SK,北欧航空公司,I,Scandinavian Airlines System (SAS),SE
+SL,泰国狮航,I,Thai Lion Mentari Co. Ltd,TH
+SN,布鲁塞尔航空公司,I,Brussels Airlines N.V.,BE
+SP,塞塔航空公司,I,SATA - Air Acores,PT
+SQ,新加坡航空有限公司,I,Singapore Airlines Limited,SG
+SS,科西嘉航空公司,I,Corsair t/a Corsair International,FR
+ST,德国包机航空公司,A,Germania Fluggesellschaft mbH,DE
+SU,俄罗斯国际航空公司,I,Aeroflot Russian Airlines,RU
+SV,沙特航空公司,I,Saudi Arabian Airlines,SA
+SW,纳米比亚航空公司,I,Air Namibia,NA
+SX,天工航空,I,SkyWork Airlines AG,CH
+SY,MN廉价航空公司,I,MN Airlines LLC,US
+SZ,索门航空公司,I,Aircompany Somon Air LLC,TJ
+T0,跨美航空公司(塔卡秘鲁),I,Trans American Airlines, S.A. TACA PERU,PE
+T1,Tik预订系统公司,H,Tik Systems (Thailand) Co. Ltd.,TH
+T2,空中加油机航空服务公司,J,AirTanker Services Limited,GB
+T3,吉尔罗东方航空公司,A,Air Kilroe Limited t/a Eastern Airways,GB
+T4,LINHAS航空公司,I,TRIP LINHAS AEREAS,BR
+T5,土库曼斯坦航空公司,I,Turkmenistan Airlines,TM
+T7,双子喷气航空公司,A,Twin Jet,FR
+T8,Telair国际航空公司,G,Telair International GmbH,DE
+TA,塔卡国际航空公司,I,Taca International Airlines, S.A.,SV
+TB,比利时途易航空,A,TUI Airlines Belgium t/a Jetairfly,BE
+TC,坦桑尼亚航空公司,I,Air Tanzania Company Ltd.,TZ
+TD,大西洋欧洲航空公司,A,Atlantis European Airways,AM
+TE,空中出租航空公司,A,Sky Taxi sp. z.o.o,PL
+TF,马尔莫航空公司,A,Malmo Aviation,SE
+TG,泰国国际航空有限公司,I,Thai Airways International Public Company Ltd.,TH
+TH,金鹏航空公司,C,Transmile Air Services Sdn. Bhd.,MY
+TI,顺风航空公司,J,Tailwind Hava Yollari A.S.,TR
+TJ,信风航空公司,A,Tradewind Aviation, LLC,US
+TK,土耳其航空公司,I,Turkish Airlines Inc.,TR
+TL,北方地区航空公司,I,Capiteq Limited dba AIRNORTH,AU
+TM,拉姆航空公司,I,LAM - Linhas Aereas de Mocambique,MZ
+TN,塔希提航空公司,I,Air Tahiti Nui,PF
+TO,法国泛航航空公司,A,Transavia France,FR
+TP,葡萄牙航空公司,I,TAP Portugal,PT
+TQ,坦德姆航空有限公司,I,Tandem Aero Ltd.,MD
+TR,泰戈航空公司,I,Tiger Airways,SG
+TS,跨大西洋航空公司,I,Air Transat,CA
+TT,澳大利亚欣丰虎航空公司,A,Tiger Airways Australia,SG
+TU,突尼斯航空公司,I,Tunisair,TN
+TV,西藏航空有限公司,I,Tibet Airlines Corporation Limited,CN
+TW,德威航空,A,T'Way Air Co., Ltd.,KR
+TX,卡拉贝斯航空公司,I,Air Caraibes,GP
+TY,喀里多尼亚航空公司,I,Air Caledonie,NC
+TZ,新加坡酷航,I,Scoot Private Limited,SG
+U1,Videcom预订系统公司,H,Videcom International Limited,GB
+U2,易捷航空公司,A,Easyjet Airline Company Limited,GB
+U3,爱维斯航空公司,A,AVIES AIR COMPANY,EE
+U5,卡里诺航空公司,A,Karinou Airlines,CF
+U7,乌干达航空公司,I,Meridiana African Airlines (U) Limited dba Air Uganda,UG
+UA,联合航空公司,I,United Airlines, Inc.,US
+UC,智利航空货运公司,C,Lan Chile Cargo S.A.,CL
+UD,赫克斯航空公司,A,Hex'Air,FR
+UE,纳赛尔航空,I,NASAIR,ER
+UF,乌克兰地中海航空有限公司,I,Ukrainian Mediterranean Airlines Ltd.,UA
+UG,突尼斯国内航空公司,I,Tunisair Express,TN
+UH,美国直升机空运公司,I,US HELICOPTER,US
+UI,奥瑞克航空公司,A,Auric Air Services Limited,TZ
+UJ,爱马斯乐联合航空,A,Almasria Universal Airlines,EG
+UM,津巴布韦（私营）航空公司,I,AIR ZIMBABWE,ZW
+UN,环空航空公司,I,Transaero Airlines,RU
+UO,香港快运航空公司,I,Hong Kong Express Airways Limited,HK
+UP,巴哈马航空公司,A,Bahamasair Holdings, Limited,BS
+UR,尤泰尔快运,I,Utair - Express Limited Company,RU
+US,美利坚航空公司,I,US Airways, Inc.,US
+UT,尤泰尔航空,I,UTair Aviation Joint-Stock Company,RU
+UU,奥斯拉尔航空公司,I,Air Austral,FR
+UV,通用航空公司,D,Universal Airways, Inc.,US
+UW,全一航空公司,C,Uni-Top Airlines,CN
+UX,欧罗巴航空公司,I,Air Europa Lineas Aereas, S.A.,ES
+UY,高加索航空公司,I,Air Caucasus,GE
+UZ,布拉克航空运输,I,Buraq Air Transport (BRQ),LY
+V0,委内瑞拉国营航空公司,I,CONVIASA,VE
+V1,IBS预订系统公司,H,IBS Software Services Americas, Inc.,US
+V2,视觉航空公司,A,Vision Airlines Inc.,US
+V3,卡帕特航空公司,A,Carpatair S.A.,RO
+V4,别克斯航空连接公司,A,Vieques Air Link, Inc,PR
+V6,维京群岛航空公司,I,Clairmont Holdings Ltd dba VI Air Link,VI
+V7,瓦伦第航空公司,I,Volotea, S.L.,ES
+V9,泛欧航空公司,I,Van Air Europe, a.s.,CZ
+VA,维珍澳大利亚航空公司,I,Virgin Australia International Airlines Pty Ltd,AU
+VB,维特伦航空公司,D,Veteran Avia Limited Liability Company,AM
+VE,CAI航空公司,I,C.A.I. Second S.p.A.,IT
+VF,惠旅航空有限公司,I,Valuair Ltd.,SG
+VG,维尔姆航空公司,A,VLM Airlines N.V. (trading as Cityjet),BE
+VH,委内瑞拉珀斯塔尔航空公司,I,AEROPOSTAL, ALAS DE VENEZUELA S.A.,VE
+VI,伏尔加－第聂伯联合控股航空公司,C,Volga-Dnepr Airline Joint Stock,RU
+VJ,越南联合航空公司,I,Vietjet Aviation Joint Stock Company (Vietjet Air),VN
+VL,中视航空公司,J,Med View Airlines (NIG) Ltd.,NG
+VN,越南航空公司,I,Vietnam Airlines Corporation,VN
+VO,提洛列昂航空公司,I,Tyrolean Airways Tiroler Luftfahrt GmbH,AT
+VP,维拉航空公司,I,Villa Air Pvt. Ltd. dba Villa Air,MV
+VQ,诺沃埃尔有限公司,I,Novoair Limited,BD
+VR,佛得角航空公司,I,Transportes Aereos de Cabo Verde,CV
+VS,维尔京大西洋航空有限公司,I,Virgin Atlantic Airways Limited,GB
+VT,大希地航空公司,I,Air Tahiti,PF
+VW,埃尔玛航空运输公司,I,Transportes Aeromar, S.A. de C.V.,MX
+VX,维珍美国航空公司,I,Virgin America Inc.,US
+VY,维林航空公司,I,Vueling Airlines S.A.,ES
+VZ,乌拉圭航空公司,J,Aero V.I.P. Ltda,UY
+W1,世界订票有限公司,H,World Ticket Ltd,DK
+W2,弗莱克斯航空,A,FlexFlight ApS,DK
+W3,埃瑞克航空公司,I,Arik Air Limited,NE
+W4,珀斯航空公司,I,LC Busre SAC,PE
+W5,穆罕航空公司,I,Mahan Airlines,IR
+W6,加威斯航空公司,A,Wizz Air Hungary Ltd.,HU
+W8,喷射货机航空公司,C,Cargojet Airways Ltd.,CA
+W9,巴根航空公司,I,Air Bagan Ltd.,MM
+WA,荷兰皇家航空城市短途公司,I,KLM Cityhopper,NL
+WB,卢旺达快运航空公司,I,RwandAir Limited,RW
+WC,伊斯莱纳航空公司,I,ISLENA AIRLINES,HN
+WE,罗马军团货运航空公司,C,Centurion Air Cargo, Inc.,US
+WF,威德罗航空公司,I,Wideroe's Flyveselskap A.S.,NO
+WG,太阳之翼航空公司,I,Sunwing Airlines Inc.,CA
+WH,西非航空公司,I,West African Airlines,BJ
+WI,怀特航空公司,J,White Airways S.A.,PT
+WJ,拉布拉多航空公司,I,Labrador Airways Limited,CA
+WK,爱德尔维斯航空公司,I,Edelweiss Air AG,CH
+WM,向风群岛航空公司,I,Windward Islands Airways Int'l N.V.,SX
+WN,西南航空公司,I,Southwest Airlines Co.,US
+WO,世界航空公司,I,World Airways,US
+WP,夏威夷岛航空海岛航空公司,I,Hawaii Island Air, Inc. dba Island Air,US
+WS,西方喷气航空公司,I,WestJet,CA
+WT,西班牙航空公司,C,Swiftair,ES
+WU,乌克兰威兹航空公司,A,Wizz Air Ukraine, LLC,UA
+WW,WOW航空公司,I,WOW Air ehf,IS
+WX,城市喷气机航空公司,I,Cityjet,IE
+WY,阿曼航空公司,I,Oman Air (S.A.O.C),OM
+WZ,红翼联合航空公司,I,Closed Joint Stock Company Red Wings,RU
+X3,途易飞航空公司,I,TUIfly GmbH,DE
+X4,空中旅行廉价航空公司,I,Air Excursions. LLC,US
+X5,罗马尼亚航空公司,B,S.C. Ten Airways S.R.L.,RO
+X7,那不勒斯航空公司,I,Exec Air, Inc. of Naples,US
+X8,Airmax航空公司,C,Airmax S.A.,PE
+XA,航空无线电公司,E,ARINC (Aeronautical Radio, Inc.),US
+XB,国际航协,F,International Air Transport Association,CA
+XC,科拉登航空公司,J,Turistik Hava Tasimacilik A.S. (Corendon Airlines),TR
+XE,大韩快运航空公司,B,Korea Express Air Co., Ltd,KR
+XF,符拉迪沃斯托克航空公司,I,Vladivostok Air JSC,RU
+XG,太阳快运德国公司,A,SunExpress Deutschland GmbH,DE
+XH,特殊地勤服务,F,Special Ground Handling Service -XH,US
+XI,航空通信服务公司,E,Aeronautical Telecommunications Ltd. (AEROTEL),JM
+XJ,亚航泰国航空公司,I,Thai Airasia X Company Limited,TH
+XK,科西嘉地中海航空公司,I,Air Corsica,FR
+XL,厄瓜多尔航空公司,I,Lan Ecuador - Aerolane Lineas Aereas Nacionales de Ecuador S.A.,EC
+XM,意大利快捷运公司,A,C.A.I. First S.p.A.,IT
+XO,东南亚航空公司,A,South East Asian Airlines (SEAIR) International, Inc.,PH
+XP,XTRA航空公司,A,TEM Enterprises dba XTRA Airways,US
+XQ,太阳快捷航空公司,I,SunExpress,TR
+XR,西方天空航空有限公司,I,SKYWEST AIRLINES,AU
+XS,国际航空电信公司,E,SITA - Airlines Worldwide Telecommunications and Information Svcs,BE
+XU,非洲快捷航空公司,A,African Express Airways (K) Limited,KE
+XV,BVI航空公司,A,BV Airways dba BVI Airways,VG
+XY,Flynas航空公司,I,National Air Services dba Flynas,SA
+XZ,南非快运,I,South African Express Airways (Pty) Ltd.,ZA
+Y1,旅行科技公司,H,Travel Technology Interactive SA,FR
+Y4,雄鹰航空公司,I,Concesionaria Vuela Compania De AviacionSA de CV (Volaris),MX
+Y5,金色缅甸航空公司,I,Golden Myanmar Airlines Public Co., Ltd,MM
+Y7,泰米尔联合控股航空公司,I,Joint Stock Company Airline Taimyr,RU
+Y8,扬子江快运航空公司,C,Yangtze River Express Airlines Co. LTD,CN
+Y9,基什航空公司,I,Kish Airlines,IR
+YE,伊安航空公司,A,Yan Air Ltd,UA
+YH,森斯普什航空公司,C,Sunsplash Aviation, LLC.,US
+YI,云南英安通用航空有限公司,B,Yunnan Yingan Airline Co., Ltd.,CN
+YJ,亚洲之翼航空,I,Asian Wings Airways Limited,MM
+YK,吉尔吉斯斯坦航空运输公司,I,Avia Traffic Company,KG
+YM,黑山航空公司,I,Montenegro Airlines,ME
+YN,克里比克航空公司（1994）,I,Air Creebec (1994) Inc.,CA
+YO,摩纳哥直升机航空公司,I,Heli Air Monaco,MC
+YP,边界航空,A,Perimeter Aviation Ltd.,CA
+YQ,波莱特航空公司,I,Aircompany Polet,RU
+YR,鹰谷航空公司,I,Grand Canyon Airlines, Inc. dba Scenic Airlines,US
+YS,欧洲地区航空公司,I,Regional Compagnie Aerienne Europeenne t/a HOP!-REGIONAL,FR
+YT,雪人航空公司,A,Yeti Airlines Domestic Pvt. Ltd.,NP
+YU,欧洲大西洋航空公司,I,EuroAtlantic Airways S.A.,PT
+YV,梅萨航空公司,I,Mesa Airlines, Inc.,US
+YW,纳斯绰航空公司,I,Air Nostrum L.A.M.S.A.,ES
+YX,共和国航空公司,I,Republic Airline Inc..,US
+Z3,PM航空公司,A,PM Air LLC,US
+Z4,扎格罗斯航空有限公司,I,Zagros Air Co.,IQ
+Z6,第聂珀拉联合控股航空公司,I,Dniproavia - Joint Stock Aviation Co.,UA
+Z8,亚马逊航空运输公司,I,Compania de Servicios de Transporte Aereo Amaszonas - Amaszonas S.A,BO
+ZA,天翼亚洲航空公司,I,Skywings Asia Airlines Co., Ltd.,KH
+ZB,君主航空公司,I,Monarch Airlines,GB
+ZC,科龙戈航空公司,I,Korongo Airlines,CG
+ZD,埃瓦航空公司,I,EWA Air,YT
+ZE,易斯达航空公司,I,EASTAR JET,KR
+ZF,旅游快运货运有限公司,C,Safari Express Cargo Limited,KE
+ZH,深圳航空公司,I,Shenzhen Airlines,CN
+ZI,法国蓝鹰航空公司,I,Aigle Azur,FR
+ZJ,路由国际航空公司,B,Air Routing International L.P.,US
+ZK,大湖航空公司,I,Great Lakes Aviation Ltd.,US
+ZL,地区快运航空公司,I,REGIONAL EXPRESS PTY LIMITED,AU
+ZM,玛纳斯航空公司,I,Air Manas dba Air Manas ltd. Air Company,KG
+ZN,纳伊萨航空公司,I,Naysa,ES
+ZP,丝绸之路航空公司,C,Silk Way Airlines,AZ
+ZR,吉托穿越航空公司,C,Aviacon Zitotrans Air Company JSC,RU
+ZT,泰坦航空有限公司,J,Titan Airways Limited,GB
+ZV,扎格罗斯航空公司,I,ZAGROS AIRLINES,IR
+ZW,威斯康星航空公司,I,Air Wisconsin Airlines Corporation (AWAC),US
+ZX,格鲁吉亚空中联盟航空公司,A,Air Georgian Ltd. dba Air Alliance,CA
+ZY,天空航空公司,I,Sik-Ay Hava Tasimacilik A.S. (Sky Airlines),TR
+GJ,浙江龙航空有限责任公司,I,Zhejiang Loong Airlines Co., Ltd,CN
+2B,AK Bars航空公司,I,Open Joint Stock  AK Bars Aero,RU
+2G,安加拉航空公司,A,Open Joint Stock Company Angara Airlines,RU
+3R,莫斯科航空,I,Joint Stock Company Moskovia Airlines,RU
+4R,阿巴坎 - 威亚股份公司,J,Joint Stock Company Abakan-Avia,RU
+6R,米尔内航空公司,A,Open Joint Stock Company ALROSA (Mirny Air Enterprise),RU
+6Z,欧亚航空,A,JSC Aircompany Euro-Asia Air,KZ
+7J,塔吉克航空公司,A,OJSC Tajik Air,TJ
+7R,俄航联合航空公司,I,Joint Stock Aviation Company RusLine,RU
+9R,SATENA航空公司,A,Servicio Aereo a Territorios Nacionales SATENA,CO
+DV,斯开特航空公司,I,JSC Aircompany SCAT,KZ
+DW,Aero-Charter航空公司,I,Joint Stock Company  Air Company Aero-Charter,UA
+EG,CJSC东方航空,I,CJSC East Air,TJ
+HZ,极光航空,I,Joint- Stock Company Aurora Airlines,RU
+IH,额尔齐斯航空公司,A,JSC Aircompany Irtysh-Air,KZ
+1H,,H,JSC Sirena-Travel,RU
+O7,苏奥伦堡地区航空,J,SUE Orenburg Region Int'l Airport Orenburg,RU
+PS,乌克兰国际航空公司,I,Private Stock Company Ukraine International Airlines,UA
+R2,奥伦堡航空公司,I,Joint Stock Company Orenburg airlines dba ORENAIR,RU
+R3,雅库悌亚航空,I,Joint Stock Company Aircompany Yakutia,RU
+U6,乌拉尔航空公司,I,Joint Stock Company Ural Airlines,RU
+U9,鞑坦斯坦航空公司,I,OJSC Aircompany Tatarstan,RU
+V8,阿川航空公司,J,OOO Atran,RU
+X9,航空快运公司,I,JSC Avion Express,LT
+YC,亚马尔联合股份航空公司,I,Joint-Stock Company Yamal Airlines,RU
+Z9,贝克航空公司,A,JSC Bek Air,KZ
+ZG,格罗兹尼威亚联合控股航空公司,A,Joint Stock Company Airline Groznyy Avia,RU
+BR,长荣航空公司,I,EVA Airways Corporation,TW
+GA,印度尼西亚鹰航空公司,I,Garuda Indonesia,ID
+AA,美国航空公司,I,American Airlines Inc.,US
+CX,国泰航空公司,I,Cathay Pacific Airways Ltd.,HK
+IB,西班牙航空公司,I,Iberia Lineas Aereas de Espana S.A. Operadora,ES
+JL,日本国际航空公司,I,Japan Airlines Co., Ltd.,JP
+LA,智利航空公司,I,LATAM Airlines Group S.A. dba LAN Airlines,CL
+QF,澳大利亚航空公司,I,Qantas Airways Ltd.,AU
+RJ,约旦王家航空公司,I,Royal Jordanian (Alia - The Royal Jordanian Airline),JO
+MX,墨西哥空运航空公司,I,Compania Mexicana de Aviacion S.A. de C.V.,MX
+AB,柏林航空公司,I,Air Berlin PLC & Co. Luftverkehrs KG,DE
+MH,马来西亚航空公司,I,Malaysia Airline System Berhad,MY
+UL,斯里兰卡航空有限公司,I,SriLankan Airlines Limited,LK
