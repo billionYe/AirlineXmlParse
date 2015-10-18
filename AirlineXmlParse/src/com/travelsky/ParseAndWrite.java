@@ -38,8 +38,8 @@ public class ParseAndWrite {
 			String str3 = ((Element) l3.get(i)).getText();
 			String str4 = ((Element) l4.get(i)).getText();
 			String str5 = ((Element) l5.get(i)).getText();
-			System.out.println(str + "," + str2 + "," + str3 + "," + str4 + ","
-					+ str5 + "\n");
+			//System.out.println(str + "," + str2 + "," + str3 + "," + str4 + ","
+			//		+ str5 + "\n");
 			fw.write(str + "," + str2 + "," + str3 + "," + str4 + "," + str5
 					+ "\r\n");
 
